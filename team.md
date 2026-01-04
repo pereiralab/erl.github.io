@@ -35,10 +35,12 @@ Click on the photos to see academic profiles current and alumni staff and studen
 
 # Affiliations of research leaders
 
-Gavin Pereira <sup>1,2,3</sup> 
-Gizachew Tessema <sup>1,2,4</sup>
+Gavin Pereira <sup>1,2,3,4,5</sup>  ORCID: https://orcid.org/0000-0003-3740-8117
+Gizachew Tessema <sup>1,3,5<,6/sup> ORCID: https://orcid.org/0000-0002-4784-8151
 
-1. Curtin School of Population Health, Curtin University, WA, Australia 
-2. enAble Institute, Curtin University, WA, Australia 
-3. WHO Collaborating Centre for Environmental Health Impact Assessment. Faculty of Health Science, Curtin University, WA, Australia
-4. School of Public Health, University of Adelaide, SA, Australia
+1.Curtin School of Population Health, Faculty of Health Sciences, Curtin University, Perth, Australia.
+2. WHO Collaborating Centre for Climate Change and Health Impact Assessment, Perth, Australia.
+3. enAble Institute, Faculty of Health Sciences, Curtin University, Perth, Australia.
+4. Faculty of Medicine, Universitas Negeri Malang, Indonesia.
+5. Institute for Health Research, University of Notre Dame, Fremantle, Australia
+6. School of Population Health, College of Health, Adelaide University, Adelaide, Australia
