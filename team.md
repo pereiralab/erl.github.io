@@ -24,9 +24,7 @@ Click on the photos to see the research profiles
 | **Barbara Zileni** * | PhD Candidate | Continuity of antenatal care in Malawi |
 | **Dr Ravisha Srinivasjois** <br/> <a href="https://www.ramsayhealth.com.au/Specialists/joondalup-private-hospital/neonatology/102258/dr-ravisha-srinivas-jois"><img src="https://ramsayprod.blob.core.windows.net/media/specialist/profilepictures/6851.jpg?v=637632657120765726" width="300" alt="Ravisha Srinivasjois"></a> | PhD Candidate, Neonatologist and Paediatrician | Probiotics to reduce morbidity among preterm infants |
 | **Bir Doj Rai** <br/> <a href="[https://scholar.google.com/citations?user=mdDCV0QAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?hl=en&user=1DqHEMQAAAAJ)"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=1DqHEMQAAAAJ&citpid=1" width="300" alt="*Bir Doj Rai"></a> | PhD Candidate  | Epidemiology of zoonotic diseases events and their spatio-temporal trends in Bhutan |
-| **Wei Shan (Cassandra) Chong** * | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
-
-\* Higher degree student research led by an academic external to the lab
+| **Wei Shan (Cassandra) Chong**  | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
 
 # Funders of the lab
 
@@ -34,10 +32,10 @@ Click on the photos to see the research profiles
 
 # Affiliations of research leaders
 
-Gavin Pereira <sup>1,2,3,4,5</sup>  ORCID: https://orcid.org/0000-0003-3740-8117
-Gizachew Tessema <sup>1,3,5<,6/sup> ORCID: https://orcid.org/0000-0002-4784-8151
+Gavin Pereira <sup>1,2,3,4,5</sup> ORCID: <a href="https://orcid.org/0000-0003-3740-8117"></a> 
+Gizachew Tessema <sup>1,3,5,6</sup> ORCID: <a href="https://orcid.org/0000-0002-4784-8151"></a> 
 
-1.Curtin School of Population Health, Faculty of Health Sciences, Curtin University, Perth, Australia.
+1. Curtin School of Population Health, Faculty of Health Sciences, Curtin University, Perth, Australia.
 2. WHO Collaborating Centre for Climate Change and Health Impact Assessment, Perth, Australia.
 3. enAble Institute, Faculty of Health Sciences, Curtin University, Perth, Australia.
 4. Faculty of Medicine, Universitas Negeri Malang, Indonesia.
