@@ -27,10 +27,10 @@ Click on the photos to see the research profiles
 | **Anna-Lisa Baker**  | PhD Candidate | Integrative evidence on the effects of ambient temperature and air pollution on adverse perinatal outcomes |
 | **Nicole Catalano**  | PhD Candidate | The influence of maternal lifestyle practices throughout pregnancy on pregnancy, birth and neonatal outcomes |
 | **Barbara Zileni** | PhD Candidate | Effectiveness Midwife Led Continuity of Care (MLCC) Caseload Model: An Interventional Sequential Mixed Methods Study at Mchinji District Hospital, Malawi |
-| **Maha Shaya M Alshahrani**  <br/> <a href=""><img src="" width="300" alt="Maha Shaya M Alshahrani"></a> | PhD Candidate | Untangling the association between dementia and dementia: timing, population attributable fractions and risk modelling |
-| **Julian Harrison**  <br/> <a href=""><img src="" width="300" alt="Julian Harrison"></a> | MPhil Candidate | Improving Vaginal Birth after Caesarean Prediction Models Using Machine Learning Techniques |
-| **Tongyang (Eric) Wu**  <br/> <a href=""><img src="" width="300" alt="Tongyang (Eric) Wu"></a> | PhD Candidate | Long-term Exposure to Ambient Air Pollutants and the Risk of Metabolic Syndrome and Elevated White Blood Cell Count among Adults in Liangshan, China |
+| **Maha Shaya M Alshahrani**   | MPhil Candidate | Improving Vaginal Birth after Caesarean Prediction Models Using Machine Learning Techniques |
+| **Tongyang (Eric) Wu**   | PhD Candidate | Long-term Exposure to Ambient Air Pollutants and the Risk of Metabolic Syndrome and Elevated White Blood Cell Count among Adults in Liangshan, China |
 | **Wei Shan (Cassandra) Chong**  | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
+| **Julian Harrison** | PhD Candidate | Untangling the association between dementia and dementia: timing, population attributable fractions and risk modelling |
 
 # Funders of the lab
 
