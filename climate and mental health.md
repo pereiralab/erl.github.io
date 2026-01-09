@@ -3,7 +3,7 @@ layout: page
 title: "Climate and Mental Health"
 ---
 
-Western Australia is no stranger to the harsh realities of climate change—scorching heatwaves, thick bushfire smoke, and swirling red dust are part of life for many. But what if these environmental stressors are doing more than just making people uncomfortable? A new research collaboration between Curtin University and Harvard T.H. Chan School of Public Health is set to uncover how these climate extremes might be quietly shaping the mental health of entire communities.
+Western Australia  is no stranger to the harsh realities of climate change—scorching heatwaves, thick bushfire smoke, and swirling red dust are part of life for many. But what if these environmental stressors are doing more than just making people uncomfortable? A new research collaboration between Curtin University and Harvard T.H. Chan School of Public Health is set to uncover how these climate extremes might be quietly shaping the mental health of entire communities.
 
 The project starts with a simple but powerful idea: while climate stressors don’t directly cause mental illness, they can act as triggers or amplifiers for those already at risk. Imagine a hot night that disrupts sleep, or a smoky day that keeps people indoors and away from support networks. For someone living with a mental health condition, these disruptions can tip the balance, leading to acute episodes or even hospitalisation. And because almost everyone is exposed to these environmental factors, the ripple effect across the population could be huge.
 
