@@ -7,7 +7,7 @@ title: ""
 
 # Research output - summary
 
-<a href="https://scholar.google.com/citations?user=m27YBy8AAAAJ&hl=en"><img src="/assets/research output.JPG" width="680" alt="Research Outputs"></a>  
+<a href="https://scholar.google.com/citations?user=m27YBy8AAAAJ&hl=en"><img src="/assets/research output.png" width="680" alt="Research Outputs"></a>  
 
 # Research impact - posts
 
