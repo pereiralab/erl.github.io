@@ -11,6 +11,7 @@ Meet the team. Click on the photos to see the research profiles
 <a href="https://scholar.google.com/citations?hl=en&user=x61kRTgAAAAJ"><img src="/assets/GT Avatar.png" width="200" alt="Gizachew Tessema"></a><br>
 **Assoc Prof Gizachew Tessema** (co-Head) Public Health
 
+<img src="/assets/TD Avatar.png" width="200" alt="Teya Duggleby"><br>
 **Ms Teya Duggleby** (Coordinator) <br>
 
 <a href="https://scholar.google.com/citations?user=ER0sUxwAAAAJ&hl=en&oi=ao"><img src="/assets/KW Avatar.png" width="200" alt="Kingsley Wong"></a><br>
@@ -39,7 +40,7 @@ Meet the team. Click on the photos to see the research profiles
 | **Melaku Birhanu Alemu** | PhD Candidate | Stated preference research on reproductive and sexual health services for adolescents and young people: A discrete choice experiment |
 | **Kendalem Asmare** | PhD Candidate | Investigating trends and risk of prenatal and early life exposures on child development in Australia |
 | **Getaneh Baye Mulu** | PhD Candidate | Adverse Perinatal Outcomes in the Northern Territory: Evidence Synthesis, Risk Prediction, and Policy Recommendations |
-| **Daniel Gashaneh Belay** | PhD Candidate | xxx |
+| **Daniel Gashaneh Belay** | PhD Candidate | TBA |
 | **Nandin-Erdene Bayart** | PhD Candidate | Ambient air pollution and cardiovascular disease in Mongolia |
 | **Almaw Genet Yeshiwas** | PhD Candidate | Wellbeing of children vulnerable to health disparities in Western Australia |
 | **Tomas Yeheyis Ferede** | PhD Candidate | TBA |
