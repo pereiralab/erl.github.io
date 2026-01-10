@@ -17,7 +17,7 @@ Meet the team. Click on the photos to see the research profiles
 <a href="https://scholar.google.com/citations?hl=en&user=a-B2-84AAAAJ"><img src="/assets/EA Avatar.png" width="200" alt="Emmanuel Adewuyi"></a><br>
 **Dr Emmanuel Adewuyi** (Senior Research Fellow) Genomics  
 
-<a href="https://scholar.google.com.au/citations?hl=en&user=Y3pG-UAAAAAJ"><img src="/assets/SN Avatar.png" width="200" alt="Sylvester Nyadanu"></a><br>
+<a href="https://scholar.google.com.au/citations?hl=en&user=Y3pG-UAAAAAJ"><img src="/assets/SD Avatar.png" width="200" alt="Sylvester Nyadanu"></a><br>
  **Dr Sylvester Nyadanu** (Senior Research Fellow) Environmental Health
 
 <a href="https://scholar.google.com/citations?user=JGs1vkYAAAAJ&hl=en"><img src="/assets/AG Avatar.png" width="200" alt="Amanuel Gebremedhin"></a><br>
