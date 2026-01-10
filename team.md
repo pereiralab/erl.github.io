@@ -4,7 +4,7 @@ title: "Team"
 ---
 
 **Prof Gavin Pereira**
- <a href="https://scholar.google.com/citations hl=en&user=m27YBy8AAAAJ&view_op=list_works&gmla=AElLoL0sTGjcEAACcOUaP1IApXM3CVuKNeGxtn9M0ht4Ng_3i6sZp1NUEaMBB_gWamK_X_GN-SwMFWFs0Irt9WcA"><img src="/assets/GP Avatar.png" width="300" alt="Gavin Pereira"></a>  
+ <a href="https://scholar.google.com/citations hl=en&user=m27YBy8AAAAJ&view_op=list_works&gmla=AElLoL0sTGjcEAACcOUaP1IApXM3CVuKNeGxtn9M0ht4Ng_3i6sZp1NUEaMBB_gWamK_X_GN-SwMFWFs0Irt9WcA"><img src="/assets/GP Avatar.png" width="200" alt="Gavin Pereira"></a>  
 co-Head of Lab 
 Epidemiology. [Website...](https://gavinfpereira.github.io/)
 
