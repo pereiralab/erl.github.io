@@ -11,6 +11,8 @@ Meet the team. Click on the photos to see the research profiles
 <a href="https://scholar.google.com/citations?hl=en&user=x61kRTgAAAAJ"><img src="/assets/GT Avatar.png" width="200" alt="Gizachew Tessema"></a><br>
 **Assoc Prof Gizachew Tessema** (co-Head) Public Health
 
+**Ms Teya Duggleby** (Coordinator) <br>
+
 <a href="https://scholar.google.com/citations?user=ER0sUxwAAAAJ&hl=en&oi=ao"><img src="/assets/KW Avatar.png" width="200" alt="Kingsley Wong"></a><br>
 **Dr Kingsley Wong** (Senior Research Fellow) Machine Learning
 
@@ -32,23 +34,22 @@ Meet the team. Click on the photos to see the research profiles
 
 | Name | Role | Topic |
 | --------------- | --------------- | --------------- |
-| **Bereket Kefale** <br/> <a href="https://scholar.google.com/citations?hl=en&user=auD3V2kAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=auD3V2kAAAAJ&citpid=3" width="300" alt="*Bereket Kefale"></a> | PhD Candidate  | Under-five mortality in the era of sustainable development goals in low- and middle-income countries: burden and trends |
-| **Tsegaye Haile** <br/> <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4Kr7YcUOuOhH9ts9im3bvruXe5DYYhsKlJzb7DNYuSSnEkZOdaUaMu8UJVKwlTdPzvT2uW5Mtq2Q5Ww1nOtptY6cryTg&user=C1ZU3usAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=C1ZU3usAAAAJ&citpid=1" width="300" alt="Tsegaye Haile"></a> | PhD Candidate  | Economic Burden of Adverse Perinatal Outcomes from Births to Age Five Years in Australia |
-| **Melaku Birhanu Alemu** <br/> <a href="https://scholar.google.com.au/citations?user=uLZSI9sAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=uLZSI9sAAAAJ&citpid=3" width="300" alt="Melaku Birhanu Alemu"></a> | PhD Candidate  | Stated preference research on reproductive and sexual health services for adolescents and young people: A discrete choice experiment |
-| **Kendalem Asmare** <br/> <a href="https://scholar.google.com/citations?user=mdDCV0QAAAAJ&hl=en&oi=ao"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=mdDCV0QAAAAJ&citpid=1" width="300" alt="Kendalem Asmare"></a> | PhD Candidate  | Investigating trends and risk of prenatal and early life exposures on child development in Australia |
-| **Getaneh Baye Mulu** <br/> <a href="https://scholar.google.com/citations?hl=en&user=0Iz9QIUAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=0Iz9QIUAAAAJ&citpid=5" width="300" alt="Getaneh Baye Mulu"></a> | PhD Candidate | Adverse Perinatal Outcomes in the Northern Territory: Evidence Synthesis, Risk Prediction, and Policy Recommendations | 
-| **Daniel Gashaneh Belay** <br/> <a href="https://scholar.google.com/citations?hl=en&user=54ShY1EAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=54ShY1EAAAAJ&citpid=1" width="300" alt="Daniel Gashaneh Belay"></a> | PhD Candidate | xxx |
-| **Nandin-Erdene Bayart** <br/> <a href="https://scholar.google.com/citations?hl=en&user=oBce5UUAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=oBce5UUAAAAJ&citpid=1" width="300" alt="Nandin-Erdene Bayart"></a> | PhD Candidate | Ambient air pollution and cardiovascular disease in Mongolia |
-| **Almaw Genet Yeshiwas** <br/> <a href="https://scholar.google.com/citations?hl=en&user=fHte0_YAAAAJ"><img src="https://scholar.google.com/citations/images/avatar_scholar_256.png" width="300" alt="Almaw Genet Yeshiwas"></a> | PhD Candidate | Wellbeing of children vulnerable to health disparities in Western Australia |
-| **Tomas Yeheyis Ferede** <br/> <a href="https://scholar.google.com/citations?hl=en&user=QsYATMkAAAAJ"><img src="https://scholar.google.com/citations/images/avatar_scholar_256.png" width="300" alt="Tomas Yeheyis Ferede"></a> | PhD Candidate | TBA |
-| **Anna-Lisa Baker**  | PhD Candidate | Integrative evidence on the effects of ambient temperature and air pollution on adverse perinatal outcomes |
-| **Nicole Catalano**  | PhD Candidate | The influence of maternal lifestyle practices throughout pregnancy on pregnancy, birth and neonatal outcomes |
+| **Bereket Kefale** | PhD Candidate | Under-five mortality in the era of sustainable development goals in low- and middle-income countries: burden and trends |
+| **Tsegaye Haile** | PhD Candidate | Economic Burden of Adverse Perinatal Outcomes from Births to Age Five Years in Australia |
+| **Melaku Birhanu Alemu** | PhD Candidate | Stated preference research on reproductive and sexual health services for adolescents and young people: A discrete choice experiment |
+| **Kendalem Asmare** | PhD Candidate | Investigating trends and risk of prenatal and early life exposures on child development in Australia |
+| **Getaneh Baye Mulu** | PhD Candidate | Adverse Perinatal Outcomes in the Northern Territory: Evidence Synthesis, Risk Prediction, and Policy Recommendations |
+| **Daniel Gashaneh Belay** | PhD Candidate | xxx |
+| **Nandin-Erdene Bayart** | PhD Candidate | Ambient air pollution and cardiovascular disease in Mongolia |
+| **Almaw Genet Yeshiwas** | PhD Candidate | Wellbeing of children vulnerable to health disparities in Western Australia |
+| **Tomas Yeheyis Ferede** | PhD Candidate | TBA |
+| **Anna-Lisa Baker** | PhD Candidate | Integrative evidence on the effects of ambient temperature and air pollution on adverse perinatal outcomes |
+| **Nicole Catalano** | PhD Candidate | The influence of maternal lifestyle practices throughout pregnancy on pregnancy, birth and neonatal outcomes |
 | **Barbara Zileni** | PhD Candidate | Effectiveness Midwife Led Continuity of Care (MLCC) Caseload Model: An Interventional Sequential Mixed Methods Study at Mchinji District Hospital, Malawi |
-| **Maha Shaya M Alshahrani**   | PhD Candidate | Improving Vaginal Birth after Caesarean Prediction Models Using Machine Learning Techniques |
-| **Tongyang (Eric) Wu**   | PhD Candidate | Long-term Exposure to Ambient Air Pollutants and the Risk of Metabolic Syndrome and Elevated White Blood Cell Count among Adults in Liangshan, China |
-| **Wei Shan (Cassandra) Chong**  | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
+| **Maha Shaya M Alshahrani** | PhD Candidate | Improving Vaginal Birth after Caesarean Prediction Models Using Machine Learning Techniques |
+| **Tongyang (Eric) Wu** | PhD Candidate | Long-term Exposure to Ambient Air Pollutants and the Risk of Metabolic Syndrome and Elevated White Blood Cell Count among Adults in Liangshan, China |
+| **Wei Shan (Cassandra) Chong** | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
 | **Julian Harrison** | MPhil Candidate | Untangling the association between dementia and dementia: timing, population attributable fractions and risk modelling |
-| **Teya Duggleby** | Project Coordinator | Coordinates projects for the Epidemiology Research Lab |
 
 # Consumer and community representatives
 
