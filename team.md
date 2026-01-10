@@ -5,7 +5,7 @@ title: "Team"
 
 Meet the team. Click on the photos to see the research profiles 
 
- <a href="https://scholar.google.com/citations hl=en&user=m27YBy8AAAAJ&view_op=list_works&gmla=AElLoL0sTGjcEAACcOUaP1IApXM3CVuKNeGxtn9M0ht4Ng_3i6sZp1NUEaMBB_gWamK_X_GN-SwMFWFs0Irt9WcA"><img src="/assets/GP Avatar2.png" width="200" alt="Gavin Pereira"></a>  
+ <a href="https://scholar.google.com/citations hl=en&user=m27YBy8AAAAJ&view_op=list_works&gmla=AElLoL0sTGjcEAACcOUaP1IApXM3CVuKNeGxtn9M0ht4Ng_3i6sZp1NUEaMBB_gWamK_X_GN-SwMFWFs0Irt9WcA"><img src="/assets/GP Avatar3.png" width="200" alt="Gavin Pereira"></a>  
 **Prof Gavin Pereira** (co-Head) Epidemiology [Website...](https://gavinfpereira.github.io/)
 
 <a href="https://scholar.google.com/citations?hl=en&user=x61kRTgAAAAJ"><img src="/assets/GT Avatar.png" width="200" alt="Gizachew Tessema"></a><br>
