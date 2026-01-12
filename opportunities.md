@@ -7,6 +7,9 @@ title: "Opportunities"
 
 We host visiting scholars and are happy to collaborate on research projects related to our field or help develop applications for funding. Occassionally there is funding for short-term projects for postdocs. Research fellow positions for our team are advertised on the [institution's job portal](http://staff.curtin.edu.au/job-vacancies/#linkid=um-about-jobs-at-curtin-see-job-vacancies) but will also be posted here. Note that dead links implies that either the closing date has passed or the position has been filled.
 
+Closing date 24 February 2025
+* [Recruiting a project coordinator](https://staff.curtin.edu.au/job-vacancies/)
+
 Closing date 9 December 2021
 * [Recruiting two early career research associates](http://staff.curtin.edu.au/job-vacancies/?ja-job=401044)  
 
