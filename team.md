@@ -5,7 +5,7 @@ title: "Team"
 
 Meet the team's digital twins. Click on the Avatar images to see the research profiles <br>
 
- <a href="https://scholar.google.com/citations hl=en&user=m27YBy8AAAAJ&view_op=list_works&gmla=AElLoL0sTGjcEAACcOUaP1IApXM3CVuKNeGxtn9M0ht4Ng_3i6sZp1NUEaMBB_gWamK_X_GN-SwMFWFs0Irt9WcA"><img src="/assets/GP Avatar3.png" width="200" alt="Gavin Pereira"></a>  <a href="https://scholar.google.com/citations?hl=en&user=x61kRTgAAAAJ"><img src="/assets/GT Avatar.png" width="200" alt="Gizachew Tessema"></a><br>
+ <a href="https://gavinfpereira.github.io/"><img src="/assets/GP Avatar3.png" width="200" alt="Gavin Pereira"></a>  <a href="https://scholar.google.com/citations?hl=en&user=x61kRTgAAAAJ"><img src="/assets/GT Avatar.png" width="200" alt="Gizachew Tessema"></a><br>
 **Prof Gavin Pereira** and **Assoc Prof Gizachew Tessema** <br>
 Co-Heads of Epidemiology Research Lab
 
